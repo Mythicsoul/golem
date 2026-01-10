@@ -46,3 +46,9 @@ Desktop.ini
 ############
 
 .DS_Store
+
+#################
+## nix dev env
+#################
+venv
+shell.nix
